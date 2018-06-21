@@ -4,15 +4,24 @@
         {
             "type": "al",
             "request": "launch",
+            "name": "Microsoft cloud sandbox",
+            "startupObjectId": 50110,
+            "startupObjectType": "Page"
+
+
+            
             /*"name": "Komsa kralj",
             "server": "http://localhost",
             "serverInstance": "dynamicsnav110",
             "authentication": "Windows",
             "startupObjectId": 50110*/
 
-            "name": "Microsoft cloud sandbox",
-            "startupObjectId": 50110,
-            "startupObjectType": "Page"
+            /*"name": "Komsa kralj",
+            "server": "http://npsbgnav10.nps-group.com",
+            "port": 11046,
+            "serverInstance": "dynamicsnav110",
+            "authentication": "UserPassword",
+            "startupObjectId": 50110*/
         }
     ]
 }
