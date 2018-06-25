@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="WorldCup2018_BC">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 4072356850 - Field 1713124211 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Match No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Russia 2018 Results - Field MathNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4072356850 - Field 1487317046 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Home Team</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Russia 2018 Results - Field HomeTeam - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4072356850 - Field 944470613 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Away Team</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Russia 2018 Results - Field AwayTeam - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4072356850 - Field 1143757133 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Home Team Result</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Russia 2018 Results - Field HomeTeamResult - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4072356850 - Field 2309231614 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Away Team Result</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Russia 2018 Results - Field AwayTeamResult - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4072356850 - Field 714791889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>City</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Russia 2018 Results - Field City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4072356850 - Field 366198708 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Group Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Russia 2018 Results - Field Group Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4072356850 - Field 61963710 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Match Date and Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Russia 2018 Results - Field DateAndTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4072356850 - Field 3874601753 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Match Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Russia 2018 Results - Field MatchStatus - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4072356850 - Field 1069749656 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Home Tactics</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Russia 2018 Results - Field Home Tactics - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4072356850 - Field 1667385543 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Away Tactics</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Russia 2018 Results - Field Away Tactics - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
