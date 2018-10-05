@@ -19,7 +19,7 @@ pageextension 50110 Headline extends "Headline RC Business Manager"
     var
         LastGame: Text;
         NowPlaying: Text;
-        Text001: Label 'Neka labela', Comment = 'Moj prvi prevod test tag';
+        Text001: Label 'Neka labela', Comment = 'Moj prvi prevod test tag pull request';
 
     trigger OnOpenPage()
     var
